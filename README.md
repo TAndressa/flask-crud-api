@@ -72,9 +72,11 @@ Caso você deseje adicionar testes, pode seguir a mesma estrutura do projeto ant
 
 ## 📁 Estrutura do Projeto
 
+```bash
 flask-crud-api/
 │
 ├── app.py               # Código principal da API
 ├── requirements.txt     # Dependências (atualize com pip freeze)
 ├── .gitignore           # Arquivos ignorados no controle de versão
 └── README.md            # Este arquivo
+```
